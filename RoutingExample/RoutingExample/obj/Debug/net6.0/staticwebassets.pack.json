@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\programming\\aspnetcore\\RoutingExample\\RoutingExample\\wwwroot\\img1.jpeg",
+      "PackagePath": "staticwebassets\\img1.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RoutingExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RoutingExample.props",
+      "PackagePath": "build\\RoutingExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RoutingExample.props",
+      "PackagePath": "buildMultiTargeting\\RoutingExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RoutingExample.props",
+      "PackagePath": "buildTransitive\\RoutingExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

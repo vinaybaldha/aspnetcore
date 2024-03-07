@@ -1,0 +1,31 @@
+﻿@model Person
+<!DOCTYPE=html>
+<html>
+<head>
+    <title>person details</title>
+
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="page-content">
+        <div class="box">
+            <h3>@Model.Name</h3>
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <td>Gender</td>
+                        <td>@Model.PersonGender</td>
+                    </tr>
+
+                    <tr>
+                        <td>Date Of Birth</td>
+                        <td>@Model.BitrhDate?.ToString("MM/dd/yyyy")</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <a href="/">back to home</a>
+    </div>
+</body>
+</html>

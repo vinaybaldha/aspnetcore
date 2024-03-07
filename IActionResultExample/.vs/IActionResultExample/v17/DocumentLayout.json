@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming\\aspnetcore\\IActionResultExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|e:\\programming\\aspnetcore\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|e:\\programming\\aspnetcore\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|e:\\programming\\aspnetcore\\iactionresultexample\\iactionresultexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|e:\\programming\\aspnetcore\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98704A9-030B-46C0-8256-4E62C945C964}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Models\\Book.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Models\\Book.cs",
+              "RelativeToolTip": "IActionResultExample\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:50:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:13:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:37:32.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Program.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeToolTip": "IActionResultExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:36:46.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

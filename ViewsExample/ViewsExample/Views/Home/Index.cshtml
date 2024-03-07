@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Person>
+<html>
+<head>
+    <title>@ViewBag.title</title>
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="page-content">
+        <h1>Welcome</h1>
+        @foreach (Person person in Model)
+        {
+            <div class="box float-left w-50">
+                <h3>@person.Name</h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@person.PersonGender</td>
+                        </tr>
+                        <tr>
+                            <td>Date Of Birth</td>
+                            <td>@person.BitrhDate?.ToString("MM/dd/yyyy")</td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                <a href="~/persondetails/@person.Name">person details</a>
+            </div>
+
+        }
+        <a href="~/personwithproduct">person with product</a>
+    </div>
+</body>
+</html>

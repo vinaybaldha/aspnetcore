@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "oivuj8lJBsQAvq4grkOUo91Po7gFbbvsEQJAu3bHOkw=",
+  "Source": "RoutingExample",
+  "BasePath": "_content/RoutingExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingExample\\wwwroot",
+      "Source": "RoutingExample",
+      "ContentRoot": "E:\\programming\\aspnetcore\\RoutingExample\\RoutingExample\\wwwroot\\",
+      "BasePath": "_content/RoutingExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

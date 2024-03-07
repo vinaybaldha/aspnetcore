@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming\\aspnetcore\\ViewsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\views\\shared\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\shared\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\views\\home\\personwithproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\personwithproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\views\\home\\persondetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\persondetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\models\\personandproductwrappermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\models\\personandproductwrappermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|e:\\programming\\aspnetcore\\viewsexample\\viewsexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03099D1C-E373-4668-BB41-E1A1559D2CF2}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Shared\\All.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Shared\\All.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Shared\\All.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Shared\\All.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:51:44.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonWithProduct.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:04:43.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonAndProductWrapperModel.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "RelativeToolTip": "ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:56:43.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Models\\Product.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Models\\Product.cs",
+              "RelativeToolTip": "ViewsExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:55:18.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonDetails.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Home\\PersonDetails.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\PersonDetails.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Home\\PersonDetails.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\PersonDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T08:57:49.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewsExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv04AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:16:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:45:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T16:17:40.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Models\\Person.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Models\\Person.cs",
+              "RelativeToolTip": "ViewsExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:44:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ViewsExample\\wwwroot\\StyleSheet.css",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "ViewsExample\\wwwroot\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T07:44:34.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Program.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Program.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\ViewsExample\\ViewsExample\\Program.cs",
+              "RelativeToolTip": "ViewsExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:14:14.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
