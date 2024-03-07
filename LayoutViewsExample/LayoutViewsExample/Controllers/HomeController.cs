@@ -16,7 +16,7 @@ namespace LayoutViewsExample.Controllers
             return View();
         }
 
-        [Route("contect-support")]
+        [Route("contact-support")]
         public IActionResult Contact()
         {
             return View();

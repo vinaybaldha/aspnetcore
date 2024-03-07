@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.title</title>
+    <link href="~/StyleSheet.css" rel="stylesheet"/>
+</head>
+<body>
+   <div class="">
+       <div class="flex-1 grey-back">SideBar</div>
+       <div class="flex-2 white-back">
+           @RenderBody()
+       </div>
+   </div>
+</body>
+</html>

@@ -1,9 +1,12 @@
-﻿<!DOCTYPE html>
+﻿@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+}
+<!DOCTYPE html>
 
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>AspNet Core</title>
+    <title>@ViewData["title"]</title>
     <link href="~/StyleSheet.css" rel="stylesheet"/>
 </head>
 <body>
@@ -22,6 +25,9 @@
     <div class="page-content">
         @RenderBody()
     </div>
+    </div>
+    <div class="footer-content">
+        @RenderSection("footer",false)
     </div>
 </body>
 </html>
