@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "36rwT06BI/d76yeVL/9yz/iy/Yn+o4T3dlMLO6QBfCk=",
+  "Source": "PartialViewExample",
+  "BasePath": "_content/PartialViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewExample\\wwwroot",
+      "Source": "PartialViewExample",
+      "ContentRoot": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

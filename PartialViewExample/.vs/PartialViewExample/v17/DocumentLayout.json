@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming\\aspnetcore\\PartialViewExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\views\\shared\\_listpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\shared\\_listpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|e:\\programming\\aspnetcore\\partialviewexample\\partialviewexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA69ADDB-7DC0-4A4F-A5AC-14BA790AE835}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "PartialViewExample\\wwwroot\\StyleSheet.css",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "PartialViewExample\\wwwroot\\StyleSheet.css",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAMkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T12:14:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T10:55:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:22:05.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ListPartialView.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_ListPartialView.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Shared\\_ListPartialView.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_ListPartialView.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Shared\\_ListPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:11:37.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T11:21:55.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T11:01:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T10:55:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialViewExample\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialViewExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:53:35.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Program.cs",
+              "RelativeDocumentMoniker": "PartialViewExample\\Program.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\PartialViewExample\\PartialViewExample\\Program.cs",
+              "RelativeToolTip": "PartialViewExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:49:55.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
