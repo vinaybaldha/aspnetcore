@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming\\aspnetcore\\CRUDExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7768FDDA-E426-498A-AD77-8DF225F036E1}|ServiceContracts\\ServiceContracts.csproj|e:\\programming\\aspnetcore\\crudexample\\servicecontracts\\dto\\addcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7768FDDA-E426-498A-AD77-8DF225F036E1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\addcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7768FDDA-E426-498A-AD77-8DF225F036E1}|ServiceContracts\\ServiceContracts.csproj|e:\\programming\\aspnetcore\\crudexample\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7768FDDA-E426-498A-AD77-8DF225F036E1}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D810FA80-3FC1-45C7-88FF-63B7525B3D51}|Entities\\Entities.csproj|e:\\programming\\aspnetcore\\crudexample\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D810FA80-3FC1-45C7-88FF-63B7525B3D51}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7787BDDE-9787-427C-B3E0-F2BD63024F8B}|CRUDTests\\CRUDTests.csproj|e:\\programming\\aspnetcore\\crudexample\\crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7787BDDE-9787-427C-B3E0-F2BD63024F8B}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BC364-F6BD-4B38-B04F-B3733A5BC26E}|CRUDExample\\CRUDExample.csproj|e:\\programming\\aspnetcore\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6BC364-F6BD-4B38-B04F-B3733A5BC26E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BC364-F6BD-4B38-B04F-B3733A5BC26E}|CRUDExample\\CRUDExample.csproj|e:\\programming\\aspnetcore\\crudexample\\crudexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E6BC364-F6BD-4B38-B04F-B3733A5BC26E}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCountryRequest.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\CRUDExample\\ServiceContracts\\DTO\\AddCountryRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\AddCountryRequest.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\CRUDExample\\ServiceContracts\\DTO\\AddCountryRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\AddCountryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:11:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\CRUDExample\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\CRUDExample\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:07:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\CRUDExample\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\CRUDExample\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:03:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\UnitTest1.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "CRUDTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:57:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "CRUDExample\\wwwroot\\StyleSheet.css",
+              "ToolTip": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "CRUDExample\\wwwroot\\StyleSheet.css",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAHMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T13:49:43.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:45:05.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
