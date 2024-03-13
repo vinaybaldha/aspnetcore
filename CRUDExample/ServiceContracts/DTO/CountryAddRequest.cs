@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ServiceContracts.DTO
 {
-    public class AddCountryRequest
+    public class CountryAddRequest
     {
         /// <summary>
         /// DTO class for adding a new country

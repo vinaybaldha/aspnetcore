@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IOVlHpgR426gWQc8IjCSMZATrva+MNkLa6jsmL2cqtSZmGGPgS7AXPVrA4wdb29/u5gcB1ZA8UVbcgcQC3rWkg==",
+  "dgSpecHash": "NAgGguo/2O2lpMmkJ9wLSwgO3qNjuZdlGDZ6dYj5Id96wIPYxL2WqF+irVRzVNvDSelc0FRmI/4SyKf8+mN1rQ==",
   "success": true,
   "projectFilePath": "E:\\programming\\aspnetcore\\CRUDExample\\CRUDTests\\CRUDTests.csproj",
   "expectedPackageFiles": [

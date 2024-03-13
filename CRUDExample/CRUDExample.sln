@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDExample", "CRUDExample\CRUDExample.csproj", "{2E6BC364-F6BD-4B38-B04F-B3733A5BC26E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDExample", "CRUDExample\CRUDExample.csproj", "{2E6BC364-F6BD-4B38-B04F-B3733A5BC26E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDTests", "CRUDTests\CRUDTests.csproj", "{7787BDDE-9787-427C-B3E0-F2BD63024F8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDTests", "CRUDTests\CRUDTests.csproj", "{7787BDDE-9787-427C-B3E0-F2BD63024F8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{D810FA80-3FC1-45C7-88FF-63B7525B3D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{D810FA80-3FC1-45C7-88FF-63B7525B3D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{7768FDDA-E426-498A-AD77-8DF225F036E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{7768FDDA-E426-498A-AD77-8DF225F036E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{513140E1-4D80-4AA2-BED7-9A1E6605AC32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7768FDDA-E426-498A-AD77-8DF225F036E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7768FDDA-E426-498A-AD77-8DF225F036E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7768FDDA-E426-498A-AD77-8DF225F036E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513140E1-4D80-4AA2-BED7-9A1E6605AC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513140E1-4D80-4AA2-BED7-9A1E6605AC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513140E1-4D80-4AA2-BED7-9A1E6605AC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513140E1-4D80-4AA2-BED7-9A1E6605AC32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
