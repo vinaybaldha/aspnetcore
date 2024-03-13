@@ -1,9 +1,4 @@
 ﻿using Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ServiceContracts.DTO
 {
@@ -19,6 +14,8 @@ namespace ServiceContracts.DTO
 
         public string? Gender { get; set; }
         public Guid? CountryID { get; set; }
+
+        public string? Country {  get; set; }
         public string? Address { get; set; }
         public bool ReciveNewsLetters { get; set; }
 
