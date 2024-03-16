@@ -1,11 +1,9 @@
 ﻿using Entities;
-using Microsoft.VisualBasic;
 using ServiceContracts;
 using ServiceContracts.DTO;
 using ServiceContracts.Enums;
 using Services.Helpers;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
+
 
 namespace Services
 {
@@ -151,6 +149,51 @@ namespace Services
 
             return sortedPersons;
                 
+        }
+
+        public PersonResponse UpdatePerson(PersonUpdateRequest? personUpdateRequest)
+        {
+            if(personUpdateRequest == null)
+            {
+                throw new ArgumentNullException(nameof(personUpdateRequest));
+            }
+
+            ValidationHelper.ModelValidation(personUpdateRequest);
+
+            Person? matchingPerson = _persons.FirstOrDefault(temp => temp.PersonID == personUpdateRequest?.PersonID);
+
+            if(matchingPerson == null)
+            {
+                throw new ArgumentException("Given personID dosen't exist");
+            }
+
+            matchingPerson.PersonName = personUpdateRequest.PersonName;
+            matchingPerson.Address = personUpdateRequest.Address;
+            matchingPerson.Gender = personUpdateRequest.Gender.ToString();
+            matchingPerson.Email = personUpdateRequest.Email;
+            matchingPerson.DateOfBirth= personUpdateRequest.DateOfBirth;
+            matchingPerson.ReciveNewsLetters = personUpdateRequest.ReciveNewsLetters;
+            matchingPerson.CountryID = personUpdateRequest.CountryID;
+          
+            return matchingPerson.ToPersonResponse();
+        }
+
+        public bool DeletePerson(Guid? personID)
+        {
+            if (personID == null)
+            {
+                throw new ArgumentNullException(nameof(personID));
+            }
+
+            Person? person = _persons.FirstOrDefault(temp => temp.PersonID == personID);
+
+            if(person == null)
+            {
+                return false;
+            }
+            _persons.RemoveAll(temp=>temp.PersonID == personID);
+
+            return true;
         }
     }
 }
