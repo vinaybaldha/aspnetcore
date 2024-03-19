@@ -255,3 +255,9 @@ E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\ne
 E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\obj\Debug\net7.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\ClientApp\CitiesAngularApp\angular.json
+E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\ClientApp\CitiesAngularApp\package-lock.json
+E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\ClientApp\CitiesAngularApp\package.json
+E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\ClientApp\CitiesAngularApp\tsconfig.app.json
+E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\ClientApp\CitiesAngularApp\tsconfig.json
+E:\programming\aspnetcore\CitiesManager.WebAPI\CitiesManager.WebAPI\bin\Debug\net7.0\ClientApp\CitiesAngularApp\tsconfig.spec.json

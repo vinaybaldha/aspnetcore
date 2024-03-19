@@ -40,6 +40,16 @@ builder.Services.AddVersionedApiExplorer(options =>
     options.SubstituteApiVersionInUrl = true;
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder1 =>
+    {
+        builder1.WithOrigins(builder.Configuration.GetSection("AllowedOrigins").Get<string[]>())
+                .WithHeaders("Authorization", "origin", "accept", "content-type")
+                .WithMethods("GET", "POST", "PUT", "DELETE");
+
+    });
+});
 
 var app = builder.Build();
 
@@ -56,6 +66,10 @@ app.UseSwaggerUI(options =>
     options.SwaggerEndpoint("/swagger/v1/swagger.json", "1.0");
     options.SwaggerEndpoint("/swagger/v2/swagger.json", "2.0");
 });
+
+app.UseRouting();
+
+app.UseCors();
 
 app.UseAuthorization();
 
