@@ -1,0 +1,6 @@
+.border-less-textbox {
+  padding: 8px 10px;
+  font-size: 105%;
+  border: none;
+  width: 100%;
+}

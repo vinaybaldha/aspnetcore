@@ -3,6 +3,7 @@ import { CitiesService } from '../services/cities.service';
 import { City } from '../models/city';
 import { CommonModule } from '@angular/common';
 import {
+  FormArray,
   FormControl,
   FormGroup,
   ReactiveFormsModule,
@@ -23,9 +24,17 @@ export class CitiesComponent implements OnInit {
 
   isPostCityFormIsSubmited: boolean = false;
 
+  putCityForm: FormGroup;
+
+  editedCityID: string | null = null;
+
   constructor(private citiesService: CitiesService) {
     this.postCityForm = new FormGroup({
       cityName: new FormControl(null, [Validators.required]),
+    });
+
+    this.putCityForm = new FormGroup({
+      cities: new FormArray([]),
     });
   }
 
@@ -33,11 +42,20 @@ export class CitiesComponent implements OnInit {
     this.citiesService.getCities().subscribe({
       next: (response: City[]) => {
         this.cities = response;
+        this.cities.forEach((city) => {
+          this.putCityFromArray.push(
+            new FormGroup({
+              cityID: new FormControl(city.cityID, [Validators.required]),
+              cityName: new FormControl(city.cityName, [Validators.required]),
+            })
+          );
+        });
       },
       error: (error) => {
         console.log(error);
       },
     });
+    //  console.log(this.putCityForm);
   }
 
   ngOnInit(): void {
@@ -46,6 +64,10 @@ export class CitiesComponent implements OnInit {
 
   get postCity_cityNameControl(): any {
     return this.postCityForm.controls['cityName'];
+  }
+
+  get putCityFromArray(): FormArray {
+    return this.putCityForm.get('cities') as FormArray;
   }
 
   postCitySubmited() {
@@ -60,5 +82,24 @@ export class CitiesComponent implements OnInit {
         console.log(error);
       },
     });
+  }
+
+  editClicked(city: City): void {
+    this.editedCityID = city.cityID;
+  }
+
+  updateClicked(i: number): void {
+    this.citiesService
+      .putCity(this.putCityFromArray.controls[i].value as City)
+      .subscribe({
+        next: (response) => {
+          console.log(response);
+          this.editedCityID = null;
+          this.postCityForm.controls[i].reset(this.postCityForm.controls[i]);
+        },
+        error: (error) => {
+          console.log(error);
+        },
+      });
   }
 }

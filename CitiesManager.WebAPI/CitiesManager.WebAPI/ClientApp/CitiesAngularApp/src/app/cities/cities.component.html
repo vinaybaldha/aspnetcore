@@ -2,17 +2,42 @@
 <div class="flex">
   <div class="flex-1">
     <div class="table-container">
-      <table class="table w-100">
+      <table class="table w-100" [formGroup]="putCityForm">
         <thead>
           <tr>
             <th>#</th>
             <th>City Name</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody formArrayName="cities">
           <tr *ngFor="let city of cities; let i = index">
             <td>{{ i + 1 }}</td>
-            <td>{{ city.cityName }}</td>
+            <td [formGroupName]="i">
+              <input
+                type="text"
+                formControlName="cityName"
+                [ngClass]="{
+                  'border-less-textbox': city.cityID !== editedCityID,
+                  'form-input': city.cityID == editedCityID
+                }"
+              />
+            </td>
+            <td style="width: 200px">
+              <button
+                class="button button-blue-back"
+                (click)="editClicked(city)"
+                *ngIf="city.cityID !== editedCityID"
+              >
+                Edit
+              </button>
+              <button
+                class="button button-blue-back"
+                (click)="updateClicked(i)"
+                *ngIf="city.cityID == editedCityID"
+              >
+                Update
+              </button>
+            </td>
           </tr>
         </tbody>
       </table>
